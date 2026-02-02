@@ -1,0 +1,269 @@
+## Government IDs
+- social security number
+- passport number
+- identification number
+- personal identification number
+- state identification card number
+- drivers license
+- medical identification number
+- state identification card
+- consumers social security
+- driver authorization card number
+- identification card number
+- health insurance identification number
+- government-issued identification number
+- driver license
+- nondriver state identification card number
+- individual taxpayer identification number
+- military identification card number
+
+## Contact Info
+- electronic mail address
+- address
+- telephone number
+- email address
+- postal address
+- text messages
+- email content
+- telephone numbers
+
+## Financial Info
+- bank account number
+- financial information
+- account number
+- financial account number
+- credit card
+- customer number
+- credit card number
+- economic situation
+- insurance policy number
+- debit card
+- debit card number
+- financial account
+
+## Health Info
+- health insurance policy number
+- protected health information
+- health condition
+- medical condition
+- health status
+- sleep
+- health
+- exercise
+- pregnancy
+- childbirth
+- breastfeeding
+- mental characteristics
+- hiv/aids
+- cancer
+- genetic information
+- genetic characteristics
+- record of cancer
+- history of cancer
+- mental condition
+- health records
+- health insurance information
+- request for pregnancy disability leave
+- physical health condition
+- diagnosis
+- health-care information
+- health-care provider
+- medicine
+- pharmacy
+- chiropractic
+- nursing
+- physical therapy
+- podiatry
+- dentistry
+- optometry
+- occupational therapy
+- healing arts
+- patient
+- medical diagnosis
+- aids
+- medical treatment
+- medical history
+- mental health
+- physical health
+- mental
+- disability
+- wellness program
+- health promotion
+- disease prevention
+
+## Biometric Data
+- face
+- retina scans
+- facial recognition
+- physiological
+- audio
+- dna
+- iris
+- retina
+- hand
+- palm
+- vein patterns
+- voice recordings
+- minutiae template
+- voice
+- biological characteristic
+- fingerprint
+- fingerprints
+- voiceprint
+- eye retinas
+- faceprint
+- irises
+- unique biometric
+- human body
+- biometric
+- gait patterns
+- deoxyribonucleic acid
+- eye color
+
+## Online Identifiers
+- identifiers
+- alias
+- online identifier
+- internet protocol (ip) address
+- network activity
+- internet activity
+- geolocation
+- specific location
+- internet protocol address
+- electronic network activity
+- precise geolocation
+- locate
+- geographic area
+- radius
+- location
+- movements
+- device identifier
+- ip address
+- cookies
+- beacons
+- pixel tags
+- unique pseudonym
+- persistent identifier
+- probabilistic identifier
+- identifier template
+- user alias
+- global positioning system
+- latitude
+- longitude
+- coordinates
+- specific geolocation data
+- unique personal identifier
+
+## Demographic Traits
+- education
+- employment history
+- professional
+- characteristics
+- racial
+- real name
+- gender identity
+- color
+- religion
+- sex
+- sexual orientation
+- marital status
+- national origin
+- ancestry
+- age
+- religious dress
+- gender
+- physical characteristics
+- gender expression
+- abilities
+- first name
+- employment
+- race
+- citizenship
+- military or veteran status
+- protected classifications
+- philosophical beliefs
+- union membership
+- racial origin
+- ethnic origin
+- intelligence
+- name
+- family
+- child
+- known child
+- sex life
+- height
+- hair color
+- initials
+- date of birth
+- place of birth
+- language
+- household
+
+## Behavioral Data
+- products purchased
+- consuming histories
+- services purchased
+- search history
+- predispositions
+- behavior
+- aptitudes
+- keystroke patterns
+- keystroke rhythms
+- gait rhythms
+- cross‑context behavioral advertising
+- targeted advertising
+- personal information
+- purchasing tendencies
+- aggregate consumer information
+- interaction with an advertisement
+- browsing history
+- preferences
+- psychological trends
+- commercial information
+- attitudes
+- profiling
+- products obtained
+- personal preferences
+- interests
+- services considered
+- consuming tendencies
+- inferences
+- purchasing histories
+- targeting of advertising
+
+## Authentication Credentials
+- account name
+- signature
+- security question
+- access code
+- account log‑in
+- password
+- credentials allowing access to an account
+- combination
+- security code
+- passwords
+- mothers maiden name
+- user name
+
+## Other Personal Data
+- customer records information
+- records of personal property
+- aggregated data
+- visual
+- thermal
+- olfactory
+- dark pattern
+- retaliation for reporting patient abuse in taxsupported institutions
+- predict
+- sensitive personal information
+- sensitive data
+- personally identifiable information
+- identified
+- identifiable individual
+- personal data
+- automated processing
+- analyze
+- reliability
+- de‑identified data
+- digital representation
+- physical representation
